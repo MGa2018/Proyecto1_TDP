@@ -6,7 +6,7 @@ public class Prueba {
 		// TODO Auto-generated method stub
 
 
-		Ciudad c = new Ciudad("Tandil");
+		Ciudad c = new Ciudad("Trenque Lauquen");
 
 	}
 
